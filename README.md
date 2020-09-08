@@ -22,7 +22,7 @@
    + [Observatório Político e Socioambiental](https://github.com/ops-org/operacao-politica-supervisionada)
 ---
 - 💬 Ask me about:
-  + [How to fiscalize politicians](https://institutoops.org.br/)
+  + [How to inspect politicians](https://institutoops.org.br/)
   + [Good things to read](https://getpocket.com/@724d1p42T3585g372aA59f1A7bg0Tc020GdT91b8e8La64h78b223iDba79QJ180)
 ---
 - 📫 How to reach me:
