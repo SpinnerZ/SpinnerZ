@@ -48,4 +48,5 @@
 - [Como memorizar o que aprendemos?](https://spinnerzl.wordpress.com/2020/06/15/como-memorizar-o-que-aprendemos/)
 <!-- BLOG-POST-LIST:END -->
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SpinnerZ)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SpinnerZ&count_private=true&show_icons=true&theme=vue" alt="Leonardo de Souza's GitHub Stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpinnerZ&layout=compact" alt="Most used languages"/>
