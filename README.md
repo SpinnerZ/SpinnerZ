@@ -49,4 +49,4 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SpinnerZ&count_private=true&show_icons=true&theme=vue" alt="Leonardo de Souza's GitHub Stats"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpinnerZ&layout=compact" alt="Most used languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpinnerZ&layout=compact" alt="Most used languages"/>
