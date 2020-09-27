@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Leonardo aka Spinner 👋
 
 #### 🔭 I’m currently working on:
 + Gallus Code with [Igor Garcia](https://github.com/iggar)
@@ -40,10 +40,12 @@
 #### ⚡ Fun facts:
 + I love lists
 + [Spinner](https://translate.google.com/#view=home&op=translate&sl=de&tl=en&text=Spinner) is a nick that my girlfriend gave me years before our dating begin
-+ I put Z in the end when Spinner is already taken. It comes from my childhood nick, Zangado, A.K.A. [Grumpy dwarf](https://disney.fandom.com/wiki/Grumpy)
++ I put Z in the end when Spinner is already taken. It comes from my childhood nick, Zangado, aka [Grumpy dwarf](https://disney.fandom.com/wiki/Grumpy)
 ---  
 #### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Sempre é tempo de se aprimorar](https://spinnerzl.wordpress.com/2020/06/19/sempre-e-tempo-de-se-aprimorar/)
 - [Como memorizar o que aprendemos?](https://spinnerzl.wordpress.com/2020/06/15/como-memorizar-o-que-aprendemos/)
 <!-- BLOG-POST-LIST:END -->
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SpinnerZ)](https://github.com/anuraghazra/github-readme-stats)
