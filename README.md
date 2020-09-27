@@ -42,13 +42,6 @@
   + [Spinner](https://translate.google.com/#view=home&op=translate&sl=de&tl=en&text=Spinner) is a nick that my girlfriend gave me years before our dating begin
   + I put Z in the end when Spinner is already taken. It comes from my childhood nick, Zangado, A.K.A. [Grumpy dwarf](https://disney.fandom.com/wiki/Grumpy)
 ---  
-- 📕 Latest blog posts
-<<<<<<< HEAD
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
-=======
+#### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sempre é tempo de se aprimorar](https://spinnerzl.wordpress.com/2020/06/19/sempre-e-tempo-de-se-aprimorar/)
-- [Como memorizar o que aprendemos?](https://spinnerzl.wordpress.com/2020/06/15/como-memorizar-o-que-aprendemos/)
 <!-- BLOG-POST-LIST:END -->
->>>>>>> 4c4899450e435782e58eaee909d845b70b279bf3
