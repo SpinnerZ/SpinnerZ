@@ -1,4 +1,7 @@
-### Hi there, I'm Leonardo aka Spinner 👋
+### Hi there, I'm Leonardo aka Spinner 👋  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SpinnerZ.SpinnerZ)
+![GitHub last commit](https://img.shields.io/github/last-commit/SpinnerZ/SpinnerZ?style=flat)
+![Twitch Status](https://img.shields.io/twitch/status/SpinnerZL?style=flat)
 
 |🔭 I’m currently working on|🌱 I’m currently learning|
 | --- | --- |
