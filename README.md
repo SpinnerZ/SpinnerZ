@@ -48,5 +48,9 @@
 - [Como memorizar o que aprendemos?](https://spinnerzl.wordpress.com/2020/06/15/como-memorizar-o-que-aprendemos/)
 <!-- BLOG-POST-LIST:END -->
 ---
-<img align="center" style="display: inline" src="https://github-readme-stats.vercel.app/api?username=SpinnerZ&count_private=true&show_icons=true&theme=vue" alt="Leonardo de Souza's GitHub Stats"/>
-<img align="center" style="display: inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpinnerZ&layout=compact" alt="Most used languages"/>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpinnerZ&count_private=true&show_icons=true&theme=vue" alt="Leonardo de Souza's GitHub Stats"/>
+</a>
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpinnerZ&layout=compact" alt="Most used languages"/>
+</a>
