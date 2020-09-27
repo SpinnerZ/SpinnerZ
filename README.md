@@ -43,5 +43,5 @@
   + I put Z in the end when Spinner is already taken. It comes from my childhood nick, Zangado, A.K.A. [Grumpy dwarf](https://disney.fandom.com/wiki/Grumpy)
 ---  
 - 📕 Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
