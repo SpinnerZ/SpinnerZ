@@ -8,9 +8,8 @@
 ---
 - 🌱 I’m currently learning:
   + [Clojure](https://www.casadocodigo.com.br/products/livro-programacao-funcional-clojure?_pos=1&_sid=4016ce905&_ss=r)
-  + [HTML & CSS](https://www.freecodecamp.org/learn)
+  + [HTML & CSS](https://www.caelum.com.br/apostila-html-css-javascript/)
   + [CS50's Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
-  + [Kanban](https://certiprof.com/pages/kanban-essentials-professional-certificate-kepc-ptbr?utm_source=DEPC+SFPC+PTBR&utm_campaign=4ead8b8a8d-EMAIL_CAMPAIGN_2020_08_21_09_23_COPY_05&utm_medium=email&utm_term=0_48a0736d4f-4ead8b8a8d-82273086)
   + [Docker](https://www.linuxtips.io/product-page/descomplicando-o-docker)
 ---
 - 👯 I’m looking to collaborate on:
@@ -19,7 +18,7 @@
 ---
 - 🤔 I’m looking for help with:
   + [Guia para desenvolvedores de software iniciantes autodidatas](https://github.com/SpinnerZ/Guia-do-Leo-para-iniciantes)
-   + [Observatório Político e Socioambiental](https://github.com/ops-org/operacao-politica-supervisionada)
+  + [Observatório Político e Socioambiental](https://github.com/ops-org/operacao-politica-supervisionada)
 ---
 - 💬 Ask me about:
   + [How to inspect politicians](https://institutoops.org.br/)
@@ -31,6 +30,7 @@
   + [Telegram](http://t.me/SpinnerZ)
   + [Twitter](https://twitter.com/spinnerzl)
   + [Facebook](https://www.facebook.com/leonardo.almeida.9231)
+  + [Twitch](https://www.twitch.tv/spinnerzl)
 ---
 - 😄 Pronouns:
   + Ele
