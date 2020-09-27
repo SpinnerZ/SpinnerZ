@@ -32,7 +32,7 @@
   + [Facebook](https://www.facebook.com/leonardo.almeida.9231)
   + [Twitch](https://www.twitch.tv/spinnerzl)
 ---
-- 😄 Pronouns:
+- 😄 Languages and tools that I know something:
   + Ele
   + He
   + Him
@@ -41,3 +41,7 @@
   + I love lists
   + [Spinner](https://translate.google.com/#view=home&op=translate&sl=de&tl=en&text=Spinner) is a nick that my girlfriend gave me years before our dating begin
   + I put Z in the end when Spinner is already taken. It comes from my childhood nick, Zangado, A.K.A. [Grumpy dwarf](https://disney.fandom.com/wiki/Grumpy)
+---  
+- 📕 Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
