@@ -32,6 +32,7 @@
 ---  
 #### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como determinar planos e metas](https://spinnerzl.wordpress.com/2020/10/11/como-determinar-planos-e-metas/)
 - [Sempre é tempo de se aprimorar](https://spinnerzl.wordpress.com/2020/06/19/sempre-e-tempo-de-se-aprimorar/)
 - [Como memorizar o que aprendemos?](https://spinnerzl.wordpress.com/2020/06/15/como-memorizar-o-que-aprendemos/)
 <!-- BLOG-POST-LIST:END -->
