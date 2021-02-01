@@ -1,11 +1,11 @@
-# Hi 👋, I'm Leonardo A. de Souza aka Spinner
+# Hi 👋, I'm **Leonardo A. de Souza** _aka_ Spinner
 
 ![](https://komarev.com/ghpvc/?username=SpinnerZ&style=plastic&label=Profile+views+since+feb/21)
 ![GitHub followers](https://img.shields.io/github/followers/SpinnerZ?label=Followers&style=plastic)
 
 #### 🤔 Who Am I!?
 
-- ⚡️ A passionate and energetic [software developer](https://www.linkedin.com/in/lsouza42/);
+- ⚡️ A passionate [software developer](https://www.linkedin.com/in/lsouza42/);
 - 🚀 Always eager to learn and [help others learn](https://spinnerzl.wordpress.com/);
 - 🔭 Currently working on [Accenture](https://www.accenture.com/br-pt) as a Junior Software Developer;
 - 🌱 Enthusiastically learning [Java](https://www.udemy.com/course/java-curso-completo/);
@@ -33,10 +33,7 @@
 
 ### 😄 Languages and Tools:
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/>
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" alt="Clojure"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/>
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub"/>
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" alt="Clojure"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown"/>
 
 ### 📫 How to [reach me](https://lsouza.sleek.page)
 
