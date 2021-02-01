@@ -7,7 +7,7 @@
 
 - ⚡️ A passionate [software developer](https://www.linkedin.com/in/lsouza42/);
 - 🚀 Always eager to learn and [help others learn](https://spinnerzl.wordpress.com/);
-- 🔭 Currently working on [Accenture](https://www.accenture.com/br-pt) as a Junior Software Developer;
+- 🔭 Currently working for [Accenture](https://www.accenture.com/br-pt) as a Junior Software Developer;
 - 🌱 Enthusiastically learning [Java](https://www.udemy.com/course/java-curso-completo/);
 - 💬 Ask me about [good things to read](https://getpocket.com/@724d1p42T3585g372aA59f1A7bg0Tc020GdT91b8e8La64h78b223iDba79QJ180);
 
