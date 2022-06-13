@@ -1,4 +1,5 @@
-# Hi 👋, I'm **Leonardo A. de Souza** _aka_ Spinner
+# Hi there 👋 I'm **[Leonardo A. de Souza](https://linktr.ee/lsouza)** _aka_ Spinner
+> Backend Software Developer at [CWI](https://cwi.com.br/)
 
 ![](https://komarev.com/ghpvc/?username=SpinnerZ&style=plastic&label=Profile+views+since+feb/21)
 ![GitHub followers](https://img.shields.io/github/followers/SpinnerZ?label=Followers&style=plastic)
