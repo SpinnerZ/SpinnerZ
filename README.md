@@ -62,4 +62,6 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Decisions for undecisive](https://catimboleo.hashnode.dev/decisions-for-undecisive)
+- [Decisão para indecisos](https://catimboleo.hashnode.dev/decisao-para-indecisos)
 <!-- BLOG-POST-LIST:END -->
