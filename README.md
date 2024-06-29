@@ -11,7 +11,7 @@
 
 I am a nerdy software engineer from Brazil living in Portugal.
 
-Nowadays working on some backend and devops projects using Java, Spring Boot, MongoDB and Dagger with Golang. Also acting as a product owner in one of them.
+Nowadays working on some backend and devops projects. Also acting as a product owner in one of them.
 
 Learning is my lifestyle and I am willing to help others with what I've learned.
 
@@ -19,12 +19,10 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 
 ![Static Badge](https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=openjdk)
 ![Static Badge](https://img.shields.io/badge/spring_boot-%23ffffff?style=for-the-badge&logo=springboot)
-
-
 ![Static Badge](https://img.shields.io/badge/oracle_sql-%23F80000?style=for-the-badge&logo=oracle)
 ![Static Badge](https://img.shields.io/badge/mongo_db-%23ffffff?style=for-the-badge&logo=mongodb)
 
-![Static Badge](https://img.shields.io/badge/go-%23ffffff?style=for-the-badge&logo=go)
+![Static Badge](https://img.shields.io/badge/go-dagger-%23ffffff?style=for-the-badge&logo=go)
 ![Static Badge](https://img.shields.io/badge/docker-%23ffffff?style=for-the-badge&logo=docker)
 
 ![Static Badge](https://img.shields.io/badge/aws-fargate-%23FF9900?style=for-the-badge&logo=awsfargate)
@@ -37,12 +35,15 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 
 ## [Connect with Me](https://linktr.ee/lsouza)
 
-[![Static Badge](https://img.shields.io/badge/youtube-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TioLeoExplica)
 [![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lsouza42/)
-[![Static Badge](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram)](https://t.me/spinnerz)
 [![Static Badge](https://img.shields.io/badge/hashnode-%232962FF?style=for-the-badge&logo=hashnode)]([leonardo.a.a.souza@outlook.com](https://hashnode.com/@TioLeo))
 [![Static Badge](https://img.shields.io/badge/roadmap.sh-%23000000?style=for-the-badge&logo=roadmapdotsh)](https://roadmap.sh/u/tioleo)
+
+
+[![Static Badge](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram)](https://t.me/spinnerz)
 [![Static Badge](https://img.shields.io/badge/steam-%23000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/LeoSpinner/)
+
+[![Static Badge](https://img.shields.io/badge/youtube-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TioLeoExplica)
 [![Static Badge](https://img.shields.io/badge/interview-in_portuguese-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/live/eneKdQjTysY)
 
 ---
