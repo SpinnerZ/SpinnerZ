@@ -56,7 +56,8 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 
 ## Latest Youtube Videos
 
-<!-- YOUTUBE-VIDEOS:START -->
+<!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2vkmmvw-SEE"><img width="140px" src="http://img.youtube.com/vi/2vkmmvw-SEE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2vkmmvw-SEE">Etapas e profissões no processo de criação de uma solução de software</a><br/>10/July/2023</td></tr></table>
 <!-- YOUTUBE-VIDEOS:END -->
 
 ## Blog posts
