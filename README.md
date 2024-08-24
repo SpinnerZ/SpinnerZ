@@ -57,16 +57,16 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 
 ## Latest Youtube Videos
 
-<!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qCdSsrLjH3M"><img width="140px" src="http://img.youtube.com/vi/qCdSsrLjH3M/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qCdSsrLjH3M">Variáveis</a><br/>21/August/2024</td></tr></table>
+<!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ASi1Mp0gHpU"><img width="140px" src="http://img.youtube.com/vi/ASi1Mp0gHpU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ASi1Mp0gHpU">Operadores em Java</a><br/>23/August/2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qCdSsrLjH3M"><img width="140px" src="http://img.youtube.com/vi/qCdSsrLjH3M/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qCdSsrLjH3M">Variáveis em Java</a><br/>21/August/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UQtKgawKqI4"><img width="140px" src="http://img.youtube.com/vi/UQtKgawKqI4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UQtKgawKqI4">Conhecendo a IDE IntelliJ IDEA e Características do Java</a><br/>19/August/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jfs91PhVDEI"><img width="140px" src="http://img.youtube.com/vi/jfs91PhVDEI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jfs91PhVDEI">Olá Mundo! Seu primeiro programa em Java</a><br/>19/August/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FMfLn9VbMTg"><img width="140px" src="http://img.youtube.com/vi/FMfLn9VbMTg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FMfLn9VbMTg">Dicas rápidas de técnicas de estudo para desenvolvimento de software</a><br/>19/August/2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9K0KvbhyMdk"><img width="140px" src="http://img.youtube.com/vi/9K0KvbhyMdk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9K0KvbhyMdk">O que espero dos alunos</a><br/>19/August/2024</td></tr></table>
 <!-- YOUTUBE-VIDEOS:END -->
 
 ## Blog posts
