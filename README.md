@@ -58,7 +58,7 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 ## Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SdJkFn3GVls"><img width="140px" src="http://img.youtube.com/vi/SdJkFn3GVls/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SdJkFn3GVls">Tira dúvidas ao vivo! 24/08/24</a><br/>24/August/2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=SdJkFn3GVls">Tira dúvidas ao vivo! 24/08/24</a><br/>25/August/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ASi1Mp0gHpU"><img width="140px" src="http://img.youtube.com/vi/ASi1Mp0gHpU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ASi1Mp0gHpU">Operadores em Java</a><br/>23/August/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qCdSsrLjH3M"><img width="140px" src="http://img.youtube.com/vi/qCdSsrLjH3M/maxresdefault.jpg"></a></td>
