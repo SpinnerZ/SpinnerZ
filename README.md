@@ -57,16 +57,16 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 
 ## Latest Youtube Videos
 
-<!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SdJkFn3GVls"><img width="140px" src="http://img.youtube.com/vi/SdJkFn3GVls/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-5P3OQc6u1A"><img width="140px" src="http://img.youtube.com/vi/-5P3OQc6u1A/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-5P3OQc6u1A">Estruturas de Decisão em Java - Switch E usando a ferramenta de debug do IntelliJ</a><br/>27/August/2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mW0x_V_56hI"><img width="140px" src="http://img.youtube.com/vi/mW0x_V_56hI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mW0x_V_56hI">Estruturas condicionais em Java - if</a><br/>27/August/2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SdJkFn3GVls"><img width="140px" src="http://img.youtube.com/vi/SdJkFn3GVls/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SdJkFn3GVls">Tira dúvidas ao vivo! 24/08/24</a><br/>25/August/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ASi1Mp0gHpU"><img width="140px" src="http://img.youtube.com/vi/ASi1Mp0gHpU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ASi1Mp0gHpU">Operadores em Java</a><br/>23/August/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qCdSsrLjH3M"><img width="140px" src="http://img.youtube.com/vi/qCdSsrLjH3M/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qCdSsrLjH3M">Variáveis em Java</a><br/>21/August/2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UQtKgawKqI4"><img width="140px" src="http://img.youtube.com/vi/UQtKgawKqI4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UQtKgawKqI4">Conhecendo a IDE IntelliJ IDEA e Características do Java</a><br/>19/August/2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jfs91PhVDEI"><img width="140px" src="http://img.youtube.com/vi/jfs91PhVDEI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jfs91PhVDEI">Olá Mundo! Seu primeiro programa em Java</a><br/>19/August/2024</td></tr></table>
 <!-- YOUTUBE-VIDEOS:END -->
 
 ## Blog posts
