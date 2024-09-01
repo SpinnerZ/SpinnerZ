@@ -57,7 +57,9 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 
 ## Latest Youtube Videos
 
-<!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=X1x70xdaTA8"><img width="140px" src="http://img.youtube.com/vi/X1x70xdaTA8/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=askbww5Yhtg"><img width="140px" src="http://img.youtube.com/vi/askbww5Yhtg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=askbww5Yhtg">Tira dúvidas ao vivo! 31/08/24 - Estrutura de repetição for em Java</a><br/>31/August/2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=X1x70xdaTA8"><img width="140px" src="http://img.youtube.com/vi/X1x70xdaTA8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=X1x70xdaTA8">Estruturas de Repetição em Java: while e do-while</a><br/>30/August/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IE3tOaTkAqI"><img width="140px" src="http://img.youtube.com/vi/IE3tOaTkAqI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IE3tOaTkAqI">Exercícios com estruturas condicionais / de decisão &lpar;if/else e switch&rpar; em Java</a><br/>29/August/2024</td></tr></table>
@@ -65,8 +67,6 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 <td><a href="https://www.youtube.com/watch?v=-5P3OQc6u1A">Estruturas de Decisão em Java - Switch E usando a ferramenta de debug do IntelliJ</a><br/>27/August/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mW0x_V_56hI"><img width="140px" src="http://img.youtube.com/vi/mW0x_V_56hI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mW0x_V_56hI">Estruturas condicionais em Java - if</a><br/>27/August/2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SdJkFn3GVls"><img width="140px" src="http://img.youtube.com/vi/SdJkFn3GVls/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SdJkFn3GVls">Tira dúvidas ao vivo! 24/08/24</a><br/>25/August/2024</td></tr></table>
 <!-- YOUTUBE-VIDEOS:END -->
 
 ## Blog posts
