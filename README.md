@@ -58,7 +58,7 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 ## Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=askbww5Yhtg"><img width="140px" src="http://img.youtube.com/vi/askbww5Yhtg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=askbww5Yhtg">Tira dúvidas ao vivo! 31/08/24 - Estrutura de repetição for em Java</a><br/>31/August/2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=askbww5Yhtg">Tira dúvidas ao vivo! 31/08/24 - Estrutura de repetição for em Java</a><br/>01/September/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=X1x70xdaTA8"><img width="140px" src="http://img.youtube.com/vi/X1x70xdaTA8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=X1x70xdaTA8">Estruturas de Repetição em Java: while e do-while</a><br/>30/August/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IE3tOaTkAqI"><img width="140px" src="http://img.youtube.com/vi/IE3tOaTkAqI/maxresdefault.jpg"></a></td>
