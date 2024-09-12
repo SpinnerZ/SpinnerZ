@@ -58,7 +58,7 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 ## Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EDOvFO56dH4"><img width="140px" src="http://img.youtube.com/vi/EDOvFO56dH4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EDOvFO56dH4">Aula de Java ao vivo: Métodos</a><br/>11/September/2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=EDOvFO56dH4">Aula de Java ao vivo: Métodos</a><br/>12/September/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=o047VtWKsJY"><img width="140px" src="http://img.youtube.com/vi/o047VtWKsJY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o047VtWKsJY">Aula de Java ao vivo: Vetores bidimensionais</a><br/>07/September/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gAW6AVj5kw8"><img width="140px" src="http://img.youtube.com/vi/gAW6AVj5kw8/maxresdefault.jpg"></a></td>
