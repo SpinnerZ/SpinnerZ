@@ -57,7 +57,9 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 
 ## Latest Youtube Videos
 
-<!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EDOvFO56dH4"><img width="140px" src="http://img.youtube.com/vi/EDOvFO56dH4/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8XkTXbyqp2g"><img width="140px" src="http://img.youtube.com/vi/8XkTXbyqp2g/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8XkTXbyqp2g">Aula de Java ao vivo: Recursividade</a><br/>13/September/2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EDOvFO56dH4"><img width="140px" src="http://img.youtube.com/vi/EDOvFO56dH4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EDOvFO56dH4">Aula de Java ao vivo: Métodos</a><br/>12/September/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=o047VtWKsJY"><img width="140px" src="http://img.youtube.com/vi/o047VtWKsJY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o047VtWKsJY">Aula de Java ao vivo: Vetores bidimensionais</a><br/>07/September/2024</td></tr></table>
@@ -65,8 +67,6 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 <td><a href="https://www.youtube.com/watch?v=gAW6AVj5kw8">Aula de Java ao vivo: Vetores</a><br/>05/September/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=askbww5Yhtg"><img width="140px" src="http://img.youtube.com/vi/askbww5Yhtg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=askbww5Yhtg">Tira dúvidas ao vivo! 31/08/24 - Estrutura de repetição for em Java</a><br/>01/September/2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=X1x70xdaTA8"><img width="140px" src="http://img.youtube.com/vi/X1x70xdaTA8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=X1x70xdaTA8">Estruturas de Repetição em Java: while e do-while</a><br/>30/August/2024</td></tr></table>
 <!-- YOUTUBE-VIDEOS:END -->
 
 ## Blog posts
