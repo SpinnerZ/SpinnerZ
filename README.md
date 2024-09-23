@@ -58,7 +58,7 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 ## Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SppwcM6B6Kg"><img width="140px" src="http://img.youtube.com/vi/SppwcM6B6Kg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SppwcM6B6Kg">Aula de Java ao vivo: Tirando dúvidas e comentando a prova</a><br/>21/September/2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=SppwcM6B6Kg">Aula de Java ao vivo: Tirando dúvidas e comentando a prova</a><br/>22/September/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8XkTXbyqp2g"><img width="140px" src="http://img.youtube.com/vi/8XkTXbyqp2g/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8XkTXbyqp2g">Aula de Java ao vivo: Recursividade</a><br/>14/September/2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EDOvFO56dH4"><img width="140px" src="http://img.youtube.com/vi/EDOvFO56dH4/maxresdefault.jpg"></a></td>
