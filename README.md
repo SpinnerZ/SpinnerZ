@@ -68,10 +68,3 @@ Learning is my lifestyle and I am willing to help others with what I've learned.
 <table><tr><td><a href="https://www.youtube.com/watch?v=gAW6AVj5kw8"><img width="140px" src="http://img.youtube.com/vi/gAW6AVj5kw8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gAW6AVj5kw8">Aula de Java ao vivo: Vetores</a><br/>05/September/2024</td></tr></table>
 <!-- YOUTUBE-VIDEOS:END -->
-
-## Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Decisions for undecisive](https://catimboleo.hashnode.dev/decisions-for-undecisive)
-- [Decisão para indecisos](https://catimboleo.hashnode.dev/decisao-para-indecisos)
-<!-- BLOG-POST-LIST:END -->
